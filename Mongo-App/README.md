@@ -1,4 +1,4 @@
-## Create course selling website backend using NodeJS, ExpressJS and MongoDB
+## Course selling website backend using NodeJS, ExpressJS and MongoDB
 
 ### Description
 
