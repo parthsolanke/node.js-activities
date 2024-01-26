@@ -20,7 +20,7 @@ def generate_and_save_files(num_files, file_size_mb, output_directory):
         print(f"File {i}.txt generated and saved at {output_directory}")
 
 if __name__ == "__main__":
-    num_files = 30
+    num_files = 3
     file_size_mb = 100
     output_directory = './tmp/data/'
 
