@@ -43,13 +43,13 @@ oXEBnCjYAzYHl1p5X6YAQLNbqgjFoRoRpa84jDGXH4TNq2AqsUypnrYQOUlZwpp
 1. Build the Docker image:
 
    ```bash
-   docker build -t express-http-server .
+   docker build -t headout-task .
    ```
 
 2. Run the Docker container:
 
    ```bash
-   docker run -p 8080:8080 --memory 1500m --cpus 2 express-http-server
+   docker run -p 8080:8080 --memory 1500m --cpus 2 headout-task
    ```
 
 3. Access the server at [http://localhost:8080](http://localhost:8080).
