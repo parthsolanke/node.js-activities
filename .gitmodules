@@ -1,3 +1,6 @@
 [submodule "To-Doing"]
 	path = To-Doing
 	url = https://github.com/parthsolanke/To-Doing.git
+[submodule "virtual-moneybag"]
+	path = virtual-moneybag
+	url = https://github.com/parthsolanke/virtual-moneybag
